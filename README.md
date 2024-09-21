@@ -3,8 +3,9 @@
 AcoNews is a news website that allows users to search and filter news articles from around the world. It provides a user-friendly interface to explore news based on categories, countries, and languages, with pagination for easy navigation. The site uses the **[GNews API](https://gnews.io/)** to fetch the latest news articles, and is built using **React.js** for the frontend and **Node.js/Express** for the backend.
 
 ## Screenshots
-![Screenshot (39)](https://github.com/user-attachments/assets/9a91b112-71fc-478b-8356-99fe13b955cd)
-![Screenshot (40)](https://github.com/user-attachments/assets/5c3dafff-58b3-4ca9-a1ac-d7010feb95d3)
+<img src="https://github.com/user-attachments/assets/9a91b112-71fc-478b-8356-99fe13b955cd" alt="Screenshot 39" width="500"/>
+<img src="https://github.com/user-attachments/assets/5c3dafff-58b3-4ca9-a1ac-d7010feb95d3" alt="Screenshot 40" width="500"/>
+
 
 
 ## Table of Contents
