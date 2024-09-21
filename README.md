@@ -16,7 +16,7 @@ AcoNews is a news website that allows users to search and filter news articles f
 - [Installation](#installation)
 - [Environment Variables](#environment-variables)
 - [Running the Project Locally](#running-the-project-locally)
-- [Backend API](#backend-api)
+- [Backend API and Backend code](#backend-api)
 - [Deployment](#deployment)
 
 ## Overview
