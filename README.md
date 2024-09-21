@@ -2,6 +2,11 @@
 
 AcoNews is a news website that allows users to search and filter news articles from around the world. It provides a user-friendly interface to explore news based on categories, countries, and languages, with pagination for easy navigation. The site uses the **[GNews API](https://gnews.io/)** to fetch the latest news articles, and is built using **React.js** for the frontend and **Node.js/Express** for the backend.
 
+## Screenshots
+![Screenshot (39)](https://github.com/user-attachments/assets/9a91b112-71fc-478b-8356-99fe13b955cd)
+![Screenshot (40)](https://github.com/user-attachments/assets/5c3dafff-58b3-4ca9-a1ac-d7010feb95d3)
+
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -47,15 +52,18 @@ The project is divided into two main parts:
 
 ### Frontend:
 /src
-  | /components 
-  |   - NewsFeed.js
-  |   - SearchBar.js
-  |   - Filters.js
-  |   - Pagination.js
+   /components 
+     - NewsFeed.js
+     - SearchBar.js
+     - Filters.js
+     - Pagination.js
 App.js
+
 index.js
+
 api.js (handles API requests to the backend)
 tailwind.config.js
+
 .env (contains backend URL)
 
 
@@ -91,23 +99,23 @@ To run this project locally, follow these steps:
 
 ## Running the Project Locally
 Frontend:
-Navigate to the frontend directory:
+- Navigate to the frontend directory:
 bash
 Copy code
 cd frontend
 
-Start the development server:
+- Start the development server:
 bash
 Copy code
 npm start
 
 Backend:
-Navigate to the backend directory:
+- Navigate to the backend directory:
 bash
 Copy code
 cd backend
 
-Start the server:
+- Start the server:
 bash
 Copy code
 node server.js
@@ -126,5 +134,7 @@ Deployment
     
 ## Deployed URLs:
 Website URL: https://aconews-frontend-eight.vercel.app/
+
 Backend code URL: https://github.com/Mdsugail/aconews-backend
+
 Make sure to configure the environment variables correctly in Vercel for the frontend and Render for the backend.
